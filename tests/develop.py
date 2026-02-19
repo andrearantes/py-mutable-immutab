@@ -1,5 +1,6 @@
 sorted_variables = {
-    "mutable": [meus_filmes_favoritos, marcas],
-    "immutable": [numero_da_sorte, pi, um_e_um_numero_primo, nome, informacoes_do_perfil, colecao_de_moedas]
+    "mutable": [my_favourite_films, marks, collection_of_coins]
+    "immutable": [lucky_number, pi, one_is_a_prime_number, name, profile_info]
+
 
 }
